@@ -1,3 +1,5 @@
+# Install
+
 ```
 $ pkg update
 $ pkg install python2
